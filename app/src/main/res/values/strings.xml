@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DoThis</string>
+    <string name="title_lista">DoThis</string>
+    <string name="title_cadastro">Nova Tarefa</string>
+    <string name="title_ajustes">DoThis</string>
+    <string name="title_aulas">Nova Tarefa</string>
+    <string name="materia">Matéria</string>
+    <string name="tarefa">Tarefa</string>
+    <string name="descricao">Descrição</string>
+    <string name="entrega">Data de Entrega</string>
+    <string name="msg_ok">OK</string>
+    <string name="msg_cancelar">Cancelar</string>
+    <string name="btn_entrega">Data de Entrega</string>
+    <string name="aviso">Aviso</string>
+    <string name="msg_aviso">Há campos inválidos ou em branco!</string>
+    <string name="msg_conexao">Conexao Criada com Sucesso!</string>
+    <string name="msg_erro">Erro</string>
+    <string name="msg_excluir">Excluir</string>
+    <string name="segunda">Segunda-Feira</string>
+    <string name="terca">Terça-Feira</string>
+    <string name="quarta">Quarta-Feira</string>
+    <string name="quinta">Quinta-Feira</string>
+    <string name="sexta">Sexta-Feira</string>
+    <string name="salvar">Salvar</string>
+    <string name="salvo">Salvo!</string>
+    <string name="title_activity_aulas">Aulas</string>
+    <string name="title_activity_ajustes">Ajustes</string>
+    <string name="title_activity_info">Info</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="selecione">Selecione</string>
+    <string name="horario_aviso">Escolha o horário dos avisos:</string>
+    <string name="horario_aviso2">*Os avisos serão notificados todos os dias neste horário</string>
+    <string name="developed_by">Developed by:</string>
+</resources>
