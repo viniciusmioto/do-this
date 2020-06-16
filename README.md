@@ -1,5 +1,5 @@
 # do-this
- Aplicativo para organização de tarefas escolares.
+ Aplicativo Android para Organização de Tarefas Acadêmicas.
 ---
 Esse projeto foi utilizado no Trabalho de Conclusão de Curso - _Técnico em Informática_ do __Instituto Federal do Paraná__ .<br>
 Desenvolvido pelos alunos: [Guilherme Spada](https://github.com/guispada) e [Vinícius Mioto](https://github.com/viniciusmioto)<br>
