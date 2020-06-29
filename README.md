@@ -6,7 +6,7 @@ Aplicativo Android para Organização de Tarefas Acadêmicas. <br><br>
 
 <br><br>
 Essa aplicativo tem como objetivo auxiliar os estudantes no gerenciamento de suas tarefas acadêmicas.<br>
-Foi desenvolvido junto com **Guilherme Spada** e utilizado como Trabalho de Conclusão de Curso do **Instituto Federal do Paraná**.
+Foi desenvolvido junto com **Guilherme Spada** e utilizado como Trabalho de Conclusão de Curso do **Instituto Federal do Paraná**.<br>
 Ferramentas: Java e a IDE Android Studio.<br>
 O app permite:
 <li> Cadastar, excluir editar e visualizar tarefas;
