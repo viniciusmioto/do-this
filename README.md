@@ -9,6 +9,6 @@ Essa aplicativo tem como objetivo auxiliar os estudantes no gerenciamento de sua
 Foi desenvolvido junto com **Guilherme Spada** e utilizado como Trabalho de Conclusão de Curso do **Instituto Federal do Paraná**.<br>
 Ferramentas: Java e a IDE Android Studio.<br>
 O app permite:
-<li> Cadastar, excluir editar e visualizar tarefas;
-<li> Cadastar, excluir editar e visualizar aulas;
+<li> Cadastar, excluir, editar e visualizar tarefas;
+<li> Cadastar, excluir, editar e visualizar aulas;
 <li> Agendar Notificações.
