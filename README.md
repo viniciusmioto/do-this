@@ -8,8 +8,8 @@ Foi desenvolvido junto com **Guilherme Spada** e utilizado como Trabalho de Conc
 <li> Organizar o horário semanal das aulas;
 <li> Cadastar, excluir, editar e visualizar tarefas;
 <li> Agendar notificações de tarefas pendentes.
-  
- <br><br>
+ 
+## Telas
   
 <img src="https://github.com/viniciusmioto/portfolio/blob/master/img/dothis-2.png" width="250"/>
 
