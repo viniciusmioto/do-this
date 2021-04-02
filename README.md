@@ -1,7 +1,6 @@
 # do-this
-Aplicativo Android para Organização de Tarefas Acadêmicas. <br><br>
+Aplicativo Android para Organização de Tarefas Acadêmicas. <br>
 
-<br><br>
 Essa aplicativo tem como objetivo auxiliar os estudantes no gerenciamento de suas tarefas acadêmicas.<br>
 Foi desenvolvido junto com **Guilherme Spada** e utilizado como Trabalho de Conclusão de Curso do **Instituto Federal do Paraná**.<br>
 
@@ -10,7 +9,7 @@ Foi desenvolvido junto com **Guilherme Spada** e utilizado como Trabalho de Conc
 <li> Cadastar, excluir, editar e visualizar tarefas;
 <li> Agendar notificações de tarefas pendentes.
   
- <br>
+ <br><br>
   
 <img src="https://github.com/viniciusmioto/portfolio/blob/master/img/dothis-2.png" width="250"/>
 
